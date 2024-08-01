@@ -17,6 +17,10 @@ Instructions to run the project in local computer:
 
 Playing Instructions:
 1)	Use the keys (W, A, S, D) for movement.
-2)	Click on any place on the floor to move the character at that point.
-3)	Colliders are not added for the props inside the room, hence the player passes through the props.
-4)	I have added colliders to walls so that player can not move outside of the room.
+2)	By default camera rotation is disabled because it makes difficult to click the target points when camera rotation is there.
+3)	Right Click mouse to enable or disable the camera rotation.
+
+4)	Click on any target points which are glowing to move the character at that point.
+5)	Colliders are not added for the props inside the room, hence the player passes through the props.
+6)	I have added colliders to walls so that player can not move outside of the room.
+
